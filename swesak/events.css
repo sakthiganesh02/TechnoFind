@@ -1,0 +1,18 @@
+*{
+		background-image:url("events.jpg");
+		background-size:cover;
+		height:100vh;
+		background-position:center;
+		margin-top:40px;
+		background-position:fixed;
+		
+}
+
+div{
+	font-family:cursive;
+	font-size:10px;
+	color: white;
+	text-align:left;
+	margin-left:20px;
+
+} 
